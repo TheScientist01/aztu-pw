@@ -1,1 +1,11 @@
 print("Hello, World!")
+
+def multiply(a, b):
+    return a * b
+
+print(multiply(2, 3))
+
+def add(a, b):
+    return a + b
+
+print(add(2, 3))
